@@ -1,0 +1,3 @@
+<template>
+  <hmr-button/>
+ </template>
