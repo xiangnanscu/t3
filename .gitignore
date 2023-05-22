@@ -18,6 +18,7 @@ node_modules
 *.sln
 *.sw?
 
+.env
 .npmrc
 # Editor directories and files
 unpackage/dist
